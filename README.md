@@ -4,7 +4,7 @@ This repository contains a Google Colab notebook used for the **Quantitative Met
 
 ## Topics Covered
 
-### Midterm: Barangay Catalina Socio-Demographic Profile  
+### Midterms: Barangay Catalina Socio-Demographic Profile  
 A graphical exploration of data on population, health, education, livelihood, and environmental challenges in Barangay Catalina, Cauayan City, Isabela.
 
 ### Finals: Mobile Legends Monetization  
